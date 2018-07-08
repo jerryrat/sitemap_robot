@@ -5,8 +5,14 @@
 
 不支持图片，样式抓取，仅支持源码抓取。
 
-使用介绍请看这里
+已实现功能：
+
+    支持多sitemap 抓取，不是同时
+
+    支持追加数据抓取，见代码36行
+
+具体请自测，使用介绍详情请看这里,
 
 [https://github.com/Hegreen/sitemap_robot][1]
 
-  [1]: https://github.com/Hegreen/sitemap_robot
+  [1]: www.helingqi.com/archives/web-site-sitemap-grabbing-web-page-to-generate-static-html.html
