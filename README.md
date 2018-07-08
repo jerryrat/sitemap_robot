@@ -15,4 +15,4 @@
 
 [www.helingqi.com/archives/web-site-sitemap-grabbing-web-page-to-generate-static-html.html][1]
 
-  [1]: www.helingqi.com/archives/web-site-sitemap-grabbing-web-page-to-generate-static-html.html
+  [1]: https://www.helingqi.com/archives/web-site-sitemap-grabbing-web-page-to-generate-static-html.html
