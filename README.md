@@ -13,6 +13,6 @@
 
 具体请自测，使用介绍详情请看这里,
 
-[https://github.com/Hegreen/sitemap_robot][1]
+[www.helingqi.com/archives/web-site-sitemap-grabbing-web-page-to-generate-static-html.html][1]
 
   [1]: www.helingqi.com/archives/web-site-sitemap-grabbing-web-page-to-generate-static-html.html
