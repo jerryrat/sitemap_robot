@@ -1,14 +1,10 @@
 <?php
 /**
  * 根据sitemap 抓取网站静态源码
- * $root 为文件所在目录
- * $site 网站域名
- * $siteMaps 为网站sitemap 集合
- *
  */
 error_reporting(0); //抑制所有错误信息
-$root     = '/home/bae/app/'; //文件所在的路径
-$site     = 'https://www.helingqi.com/'; //主域名
+$root     = '/home/wwwroot/'; //当前脚本所在站点
+$site     = ''; //源站主域名，以反斜杠结尾。如https://www.baidu.com/
 $siteMaps = [
     'sitemap.xml',
     'mip_sitemap.xml']; //siteMap 集合
